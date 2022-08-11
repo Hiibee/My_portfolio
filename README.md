@@ -11,7 +11,8 @@ COVID‑19 transmits when people breathe air contaminated by droplets and small 
 Covid-19 virus did not match any other known virus thus it raised concern; so daily level information on confirmed cases, death cases and recovered cases can give some interesting insights when it is made available to the broader data science community.
 
 ### Project overview:
-The dataset contains 321 rows with 6 columns or fields which include: date, state, region, confirmed case, deaths case and recovered case.[click here to view](https://github.com/Hiibee/Covid-19_Project)
+The dataset contains 321 rows with 6 columns or fields which include: date, state, region, confirmed case, deaths case and recovered case.
+[click here to view](https://github.com/Hiibee/Covid-19_Project)
 
 
 # Project: Netflix's Project Analysis (2021)
