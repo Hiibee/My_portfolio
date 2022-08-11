@@ -10,8 +10,7 @@ COVID‑19 transmits when people breathe air contaminated by droplets and small 
 
 Covid-19 virus did not match any other known virus thus it raised concern; so daily level information on confirmed cases, death cases and recovered cases can give some interesting insights when it is made available to the broader data science community.
 
-Project overview:
-
+### Project overview:
 The dataset contains 321 rows with 6 columns or fields which include: date, state, region, confirmed case, deaths case and recovered case.[click here to view](https://github.com/Hiibee/Covid-19_Project)
 
 
@@ -20,7 +19,7 @@ Netflix is an American subscription streaming service and production company bas
 
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 Movies or Tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally.
 
-# Project Overview:
+### Project Overview:
 The dataset contains 7,789 rows with 11 columns or fields which consists listings of all the Movies and Tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration.[click here to view](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV)
 
 
