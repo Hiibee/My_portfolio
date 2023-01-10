@@ -1,7 +1,7 @@
 # My_portfolio
 
 ### About me
-My name is Ibrahim Saka and I'm a certified Google data analyst. I’m passionate about helping businesses and industries to succeed. Also, I’m a firm believer in using data to address humanitarian issues and make the world better.
+Ibrahim Saka is a certified Google data analyst. He’s an highly skilled and process oriented analyst with and in depth knowledge of database types, research methodology, data entry, data cleaning, data analysis and data visualization. He's Highly recommended for problem solving and solution driven analysis. He has more than 3 years of professional experience working with data and information system. He's passionate about helping businesses and industries to succeed. A firm believer in using data to address humanitarian issues and make the world better.
 
 # Project: Netflix's Project Analysis (2021)
 Netflix is an American subscription streaming service and production company based in Los Gatos, California. Founded on August 29, 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, it offers a film and television series library through distribution deals as well as its own productions, known as Netflix Originals. Netflix can be accessed via web browsers or via application software installed on smart TVs, set-top boxes connected to televisions, tablet computers, smartphones, digital media players, Blu-ray players, video game consoles and virtual reality headsets on the list of Netflix-compatible devices.
