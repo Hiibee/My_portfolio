@@ -3,7 +3,7 @@
 ### About me
 Ibrahim Saka is a certified Google data analyst. He’s an highly skilled and process oriented analyst with and in depth knowledge of database types, research methodology, data entry, data cleaning, data analysis and data visualization. He's Highly recommended for problem solving and solution driven analysis. He has more than 3 years of professional experience working with data and information system. He's passionate about helping businesses and industries to succeed. A firm believer in using data to address humanitarian issues and make the world better.
 
-# Project: Netflix's Project Analysis (2021) with Python
+## Project: Netflix's Project Analysis (2021) with Python
 Netflix is an American subscription streaming service and production company based in Los Gatos, California. Founded on August 29, 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, it offers a film and television series library through distribution deals as well as its own productions, known as Netflix Originals. Netflix can be accessed via web browsers or via application software installed on smart TVs, set-top boxes connected to televisions, tablet computers, smartphones, digital media players, Blu-ray players, video game consoles and virtual reality headsets on the list of Netflix-compatible devices.
 
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 Movies or Tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally.
@@ -12,7 +12,7 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 The dataset contains 7,789 rows with 11 columns or fields which consists listings of all the Movies and Tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration. [More...](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV)
 
 
-# Project: Analysis of Covid-19 Dataset Apr(2020) with Python
+## Project: Analysis of Covid-19 Dataset Apr(2020) with Python
 Coronavirus disease 2019 (COVID-19) is a contagious disease caused by a virus, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first known case was identified in Wuhan, China, in December 2019. The disease quickly spread worldwide, resulting in the COVID-19 pandemic. Symptoms of COVID‑19 are variable, but often include fever, cough, headache, fatigue, breathing difficulties, loss of smell, and loss of taste. Symptoms may begin one to fourteen days after exposure to the virus. At least a third of people who are infected do not develop noticeable symptoms. people who develop symptoms noticeable enough to be classed as patients, most (81%) develop mild to moderate symptoms (up to mild pneumonia), while 14% develop severe symptoms (dyspnoea, hypoxia, or more than 50% lung involvement on imaging), and 5% develop critical symptoms (respiratory failure, shock, or multiorgan dysfunction). Older people are at a higher risk of developing severe symptoms. Some people continue to experience a range of effects (long COVID) for months after recovery, and damage to organs has been observed. Multi-year studies are underway to further investigate the long-term effects of the disease.
 
 COVID‑19 transmits when people breathe air contaminated by droplets and small airborne particles containing the virus. The risk of breathing these is highest when people are in close proximity, but they can be inhaled over longer distances, particularly indoors. Transmission can also occur if splashed or sprayed with contaminated fluids in the eyes, nose or mouth, and, rarely, via contaminated surfaces. People remain contagious for up to 20 days, and can spread the virus even if they do not develop symptoms
@@ -25,5 +25,5 @@ The dataset contains 321 rows with 6 columns or fields which include: date, stat
 [More...](https://github.com/Hiibee/Covid-19_Project)
 
 
-# Project: Database Script for TRCN_Unviversity of Ilorin_2022 (Faculty of Education)
+## Project: Database Script for TRCN_University of Ilorin_2022 (Faculty of Education)
 the Script code created over 1,300 plus data record for all trcn 2022 registered students.[click here to view](https://github.com/Hiibee/MYSQL/blob/main/SCRIPT_CODE_TRCN%20_2022.sql)
