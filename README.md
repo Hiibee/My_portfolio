@@ -26,4 +26,4 @@ The dataset contains 321 rows with 6 columns or fields which include: date, stat
 
 
 ## Project: Database Script for University of Ilorin_TRCN_2022_Registration (Faculty of Education)
-the Script code created over 1,300 plus data record for all trcn 2022 registered students.[click here to view](https://github.com/Hiibee/MYSQL/blob/main/SCRIPT_CODE_TRCN%20_2022.sql)
+The Script code created would generate over 1,300 plus data records for all TRCN 2022 registered students.[click here to view](https://github.com/Hiibee/MYSQL/blob/main/SCRIPT_CODE_TRCN%20_2022.sql)
