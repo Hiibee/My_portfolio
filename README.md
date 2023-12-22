@@ -22,8 +22,7 @@ Covid-19 virus did not match any other known virus thus it raised concern; so da
 Project overview:
 The dataset contains 321 rows with 6 columns or fields which include: date, state, region, confirmed case, deaths case and recovered case.
 
-[More...](https://github.com/Hiibee/Covid-19_Project)
-
+[More...](https://github.com/Hiibee/Covid-19_Project/blob/main/README.md)
 
 ## Project: University of ILorin TRCN Registration Database Script (Faculty of Education)
 The Script code created would generate over 1,300 plus data records for all TRCN 2022 registered students.[click here to view](https://github.com/Hiibee/MYSQL/blob/main/SCRIPT_CODE_TRCN%20_2022.sql)
