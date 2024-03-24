@@ -27,6 +27,12 @@ The dataset contains 321 rows with 6 columns or fields which include: date, stat
 The Script code created would generate over 1,300 plus data records for all TRCN 2022 registered students.[click here to view](https://github.com/Hiibee/MYSQL/blob/main/SCRIPT_CODE_TRCN%20_2022.sql)
 
 
+
+
+
+
+
+
 ## Project: Investment Analysis with Excel 
 Overview: Hertford Chemical Plc. is considering investing in a new chemical processing plant, but has the choice of manufacturing one of two products. The firm requires a minimum return of 20% on any
 capital expenditure. two proposals is to be compared to know the best project to go for on the basis of payback period, average rate of return and their Net present value. 
